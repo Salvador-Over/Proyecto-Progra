@@ -16,3 +16,20 @@
 	<conio.h>
 	<iomanip>
 
+1652481582 source:c:\users\saul_\proyectos\fase 2\poliza\poliza\main.cpp
+	<iostream>
+	"poliza.h"
+
+1652509269 c:\users\saul_\proyectos\fase 2\poliza\poliza\include\poliza.h
+
+1652512856 source:c:\users\saul_\proyectos\fase 2\poliza\poliza\src\poliza.cpp
+	"poliza.h"
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
